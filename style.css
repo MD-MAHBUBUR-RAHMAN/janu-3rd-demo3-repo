@@ -5,5 +5,11 @@ h1{
     border-bottom-width: 10px;
     border-bottom-left-radius: 10px;
     padding-left: 5%;
-    padding-bottom: 20px;
+    margin: 2% 10%;
+    text-align: center;
+}
+
+p{
+    color: #f3b748ce;
+    margin: 30px 40px 50px 10px;
 }
